@@ -4,38 +4,32 @@
 # In[13]:
 
 
-get_ipython().system(' python --version')
-
 
 # In[17]:
-
-
-import os
-os.chdir('Downloads')
 
 
 # In[19]:
 
 
-get_ipython().system(' pip install numpy')
+! pip install numpy
 
 
 # In[20]:
 
 
-get_ipython().system(' pip install dlib-19.24.99-cp312-cp312-win_amd64.whl')
+! pip install dlib-19.24.99-cp312-cp312-win_amd64.whl
 
 
 # In[21]:
 
 
-get_ipython().system(' pip install face_recognition')
+! pip install face_recognition
 
 
 # In[22]:
 
 
-get_ipython().system(' pip install opencv-python')
+! pip install opencv-python
 
 
 # In[23]:
