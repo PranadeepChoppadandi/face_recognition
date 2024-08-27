@@ -11,7 +11,7 @@
 # In[19]:
 
 
-! pip install numpy
+#! pip install numpy
 
 
 # In[20]:
