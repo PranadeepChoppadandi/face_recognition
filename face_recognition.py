@@ -29,7 +29,7 @@
 # In[22]:
 
 
-#! pip install opencv-python
+! pip install opencv-python
 
 
 # In[23]:
