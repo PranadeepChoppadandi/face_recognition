@@ -17,19 +17,19 @@
 # In[20]:
 
 
-! pip install dlib-19.24.99-cp312-cp312-win_amd64.whl
+#! pip install dlib-19.24.99-cp312-cp312-win_amd64.whl
 
 
 # In[21]:
 
 
-! pip install face_recognition
+#! pip install face_recognition
 
 
 # In[22]:
 
 
-! pip install opencv-python
+#! pip install opencv-python
 
 
 # In[23]:
